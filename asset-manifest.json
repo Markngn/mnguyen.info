@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mnguyen.info/static/css/main.d3e7f969.chunk.css",
+    "main.js": "/mnguyen.info/static/js/main.404c4d8c.chunk.js",
+    "main.js.map": "/mnguyen.info/static/js/main.404c4d8c.chunk.js.map",
+    "runtime-main.js": "/mnguyen.info/static/js/runtime-main.cb80d7ef.js",
+    "runtime-main.js.map": "/mnguyen.info/static/js/runtime-main.cb80d7ef.js.map",
+    "static/js/2.d9a710f3.chunk.js": "/mnguyen.info/static/js/2.d9a710f3.chunk.js",
+    "static/js/2.d9a710f3.chunk.js.map": "/mnguyen.info/static/js/2.d9a710f3.chunk.js.map",
+    "index.html": "/mnguyen.info/index.html",
+    "static/css/main.d3e7f969.chunk.css.map": "/mnguyen.info/static/css/main.d3e7f969.chunk.css.map",
+    "static/js/2.d9a710f3.chunk.js.LICENSE.txt": "/mnguyen.info/static/js/2.d9a710f3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mnguyen.info/static/media/img-8.fabdf94d.jpg",
+    "static/media/Button.css": "/mnguyen.info/static/media/img-home.c034239e.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/mnguyen.info/static/media/video-2.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb80d7ef.js",
+    "static/js/2.d9a710f3.chunk.js",
+    "static/css/main.d3e7f969.chunk.css",
+    "static/js/main.404c4d8c.chunk.js"
+  ]
+}
